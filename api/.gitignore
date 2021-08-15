@@ -24,7 +24,7 @@ coverage
 # Benchmarking
 benchmarks/graphs
 
-.env
+#.env
 public/images/avatars/*
 public/images/posts/*
 TODO
